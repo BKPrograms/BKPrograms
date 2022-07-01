@@ -10,7 +10,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50">
 
 
-### ![My github stats](https://github-readme-stats.vercel.app/api?username=BKPrograms&show_icons=true&theme=tokyonight)
+### ![My github stats](https://github-readme-stats.vercel.app/api?username=BKPrograms&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKPrograms&layout=compact&theme=tokyonight)
+
 
 <!--
 **BKPrograms/BKPrograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
